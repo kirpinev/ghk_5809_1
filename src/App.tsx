@@ -312,7 +312,7 @@ export const App = () => {
           <CDNIcon name="glyph_ticket-star_m" />
 
           <Typography.Text view="primary-medium">
-            Стоимость удачи по цене чашки кофе!
+            Оплачивайте участие кэшбеком, а не рублями
           </Typography.Text>
         </div>
         <div className={appSt.row}>
